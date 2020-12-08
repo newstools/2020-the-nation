@@ -25,17 +25,6 @@ The operations also "resulted in the arrest of 12 other" suspected extremist fig
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 In addition, the army said it had destroyed 437 weapons caches, defused 159 improvised explosive devices, and confiscated dozens of other types of weapons.
