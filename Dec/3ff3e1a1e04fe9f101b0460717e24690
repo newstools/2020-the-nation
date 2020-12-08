@@ -15,6 +15,12 @@ ODM’s support of the BBI throws up the idea of nusu mkate once more. This time
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+}
+
 
 
  Forget the notion that it is meant to unite the country. How that could be possible when ODM has put a knife in the middle of Jubilee Party and twisted it to divide its key alma maters President Kenyatta and VP Ruto? The division in the party has created a domino effect in the country and the citizens are split down the middle too as a result of the departure from handshake ‘unity’ and fall out from the BBI.
