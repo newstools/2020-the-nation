@@ -17,6 +17,12 @@ The protest by lecturers at Egerton University against the return of the vice-ch
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+}
+
 
 
 Take extra classes
