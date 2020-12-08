@@ -17,12 +17,6 @@ The loophole seems to be working against the East African economic giant that no
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-}
-
 
 
 TJN chief executive Alex Cobman said such systems that allow for massive tax losses are not broken by mistake but programmed to work in the same manner.
