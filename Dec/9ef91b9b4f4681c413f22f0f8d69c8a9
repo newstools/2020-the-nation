@@ -31,6 +31,17 @@ Mr Kariuki, who is the proprietor of Africa Spirits Ltd and WOW Beverages Ltd, w
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 More follows.. DPP says the witnesses and the exhibits in the cases are the same. Lawyers lament prosecution's non-compliance with court orders issued back in February. The Treasury CS last week announced that temporary Covid-19 tax reliefs will expire at the end of the year. Speaker gives IEBC leeway to prepare for and conduct a by-election following the death of MP Justus Murunga. Protesting learners said the student was attacked on Saturday morning while taking a bath just before the morning preps.
