@@ -51,6 +51,17 @@ That means the outcome of the party’s national executive committee (NEC) of 80
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 Ramaphosa enjoys substantially more support within the national executive of his party than when he took over, but there are still loud voices from the Zuma era attempting to put Ramaphosa in a ''no-win'' position.
