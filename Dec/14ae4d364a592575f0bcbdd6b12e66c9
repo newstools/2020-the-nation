@@ -1,0 +1,40 @@
+The Ministry of Health has reported 561 new cases of Covid-19 in Kenya in the last 24 hours from a sample size of 6,387.
+The new infections have pushed the total confirmed cases in the country to 89,661.
+The Ministry has also reported the recovery of 355 patients and the death of seven patients within the same period of time.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+The latest recoveries comprise 274 patients who were on home-based care and 81 who have been discharged from various hospitals across the country, bringing the total recoveries in the country to 70,194.
+From the latest fatalities, Covid-19 death toll in the country now stands at 1,552.
+In a statement on Wednesday evening, Health Cabinet Secretary Muathi Kagwe said NairobiCcounty, with 189 cases, recorded the highest number of new infections in the last 24 hours, followed by Mombasa 85, Bungoma 65 and Busia 36.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+More cases were reported in Kericho, Kiambu, Kwale (19 each), Kisumu 17, Embu 13, Kilifi 12, Nakuru, Lamu (11 each), Uasin Gishu, Marsabit (9 each), Kakamega 7, Nyeri 6, Kirinyaga 6, Machakos, Laikipia (4 each), Kajiado 3, Murang'a, Homa Bay, Turkana, Makueni and Tana River (2 each).
+Taita Taveta, Nyandarua, Elgeyo Marakwet, Vihiga, Meru, Siaya and Trans Nzoia all reported a single new infection each. The country now has 89,100 confirmed Covid-19 cases, including 1,545 deaths and 69,839 recoveries. The country's declared number of Covid-19 infections is now 88,579, including 1,531 deaths. Residents of Mombasa have been eagerly waiting the commissioning of the bridge. Ms Nthenya was freed without any charges being preferred against her. Just last week, Justice James Rika recused himself from the case after tempers flared in court.
