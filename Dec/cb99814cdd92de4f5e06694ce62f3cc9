@@ -89,6 +89,17 @@ Thirdly, Mr Trump is not a passing cloud. He has changed America indelibly, turn
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
+
 
 
 He has also exhumed the manure of racism whose evidence we see in the almost daily shooting of black men by the police but which is largely hidden in the urbane discourse of national politics. He has set in motion something that is likely to change America and the world, possibly forever.
