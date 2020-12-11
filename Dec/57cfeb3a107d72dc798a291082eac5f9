@@ -1,0 +1,64 @@
+Noisy headline writing
+I am a regular contributor to your beloved newspaper. I give much credit to your editorial team for panel beating and “marinating” contributors’ articles to make them more presentable, simple and clear. However, I would like to learn more about how your editorial teams select headlines for letters and opinion articles.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+I wrote the article which you headlined as “Noisy churches” in the Daily Nation’s ‘The Cutting Edge’ by ‘The Watchman’ column of December 7, 2020. In my article, I avoided using the words “mosques” and “churches”. The headline you chose, “Noisy churches” for the printed article gives the wrong impression I was attacking the churches.
+Both mosques and churches are guilty for mounting speakers on top of their buildings and some are located in residential areas. The problem I have is why the editor picked churches and not mosques?
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Secondly, my main topic and focus was on the role of umbrella institutions such as oil marketers, manufacturers’ association, media and Inter-Religious Council of Kenya in enforcing codes of conduct that comply with not only industry norms but with the country’s laws thus avoiding micro supervision by the government. Why did the sub topic become the main headline?
+I would also like to know the safeguards you have in place when articles touching on Islam lands in the hands of a professing Christian editor or vice versa?
+— Joe Musyoki, Kajiado
+***
+Thanks, Nation
+It is great to hold the Nation in my hands and turn the pages to read whatever there is and comment on what pleases me or angers me in the safety of my home! If and when I travel, all issues of the Nation are kept for me.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+— Usha Shah
+***
+Missing pages
+I have migrated to the digital Nation sadly today’s issue (December 7, 2020) has missing pages from page 36 to 56. Please address the anomaly.
+— Githaiga Kairu
+The Public Editor is an independent news ombudsman who handles readers’ complaints on editorial matters including accuracy and journalistic standards. Email: publiceditor@ke.nationmedia.com. Call or text 0721989264. He allegedly received a sh200,000 bribe to approve the opening of a fuel station in Oyugis. Kabila had succeeded in forming an army with many generals said to still be loyal to him. This is the first time Uhuru is meeting Abiy since Addis Ababa launched a crackdown on TPLF.
