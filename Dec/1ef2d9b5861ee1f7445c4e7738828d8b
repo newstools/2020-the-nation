@@ -25,6 +25,17 @@ In the face of such tragedy, the widow now seems distant, removed from reality.
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Her immediate concern is finding enough food for herself, her three children and three grandchildren, all of whom share the tiny tent donated by the World Food Programme.
@@ -63,6 +74,17 @@ With tears streaming down her face, she said in a choking voice that the men the
 "After hours of long torture, they left us and took two girls, my granddaughters".
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
 
 
 
