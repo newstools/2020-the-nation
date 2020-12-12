@@ -23,17 +23,6 @@ On the farm, he keeps red, silver, gold and yellow comet, subnkin, lionhead, car
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Specific hormones
@@ -77,17 +66,6 @@ For better growth, one needs to check the weight of the fish and the pH and temp
 “Too much or too low acidity in the pond water is dangerous for fish. The ideal pH is between 7 and 8. This is the reason we avoid tapping water from the nearby Melwa River that cuts across the farm because it is polluted. Instead, we use stream water,” says Njoroge.
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
