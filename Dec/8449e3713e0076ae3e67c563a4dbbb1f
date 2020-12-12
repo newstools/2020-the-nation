@@ -23,6 +23,17 @@ Former Constitutional Implementation Commission chairman Charles Nyachae, former
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Mr Maangi, Ruto’s pointman in Gusii, said the meeting was meant to unite leaders allied to the DP.
