@@ -1,0 +1,73 @@
+There are people in this country who are sworn enemies of progress. They sit in critical decision-making positions, chewing public money and belching monotonous sound bites.
+They appear on television with tough speeches and a dictionary of bad jokes. On other days, they address the media wearing a stone face covered with a closed mind, and when journalists ask them tough questions, they say they aren’t responsible for anyone who doesn’t eat from their houses.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+This week has been slippery for this category. A 28-year-old doctor died in the line of duty, and not even the President has bothered to open the kitchen door to have a discussion with the heat inside, and it isn’t because he doesn’t have a fireman’s licence.
+It is understandable he is no longer on social media, and we would’ve excused him for being behind news, had he not sent a congratulatory message to the President of Ghana for winning a second term without promising to revisit the Judiciary.
+
+
+
+
+
+That’s not someone who is behind news. The message from State House is clear; that the President has exercised his constitutional freedom to choose his friends, and doctors aren’t among them.
+Crocodile tears
+Had this been an election month, the entire government machinery would have been dispatched to go commiserate with the family, friends and the doctors’ fraternity. Crocodile tears would have been shed, and the Kenya Medical Practitioners Pharmacists and Dentists Union (KMPDU) would have been promised a comprehensive insurance in six months’ time.
+State House would have sent someone to Afya House with a giant axe to greet the Health minister, and the governor of the jurisdiction where the young doctor was working would by now have been speaking in tongues at an impeachment trial.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+Instead, these people are still walking around in a manner likely to suggest they haven’t learnt anything from their lack of leadership. We saw the Machakos governor apportioning blame to the national government, which in turn handed over the skunk to the Kenya Medical Supplies Authority, who picked the cue and blamed some shadowy Deep State for sending them death threats. The trail has since gone cold as we wait for the National Registration Bureau to give us the ID Number of this person called Deep State.
+When doctors appeared along Cathedral Road this week for an evening vigil to remember their colleagues who have died from Covid-19, the Health ministry did not even bother to send a junior officer to commiserate with them, despite the vigil happening right under the nose of Afya House. Magical Kenya has been selling Kenya as the undisputed home of the Big Five, but it looks like government officials would rather die than lead the pack right now.
+Things would have been different had a Kenyan doctor discovered the cure for indecisiveness. The Health CS would have invited the media for another dose of memes to celebrate the happy news, hopping from one media house to another asking whether a vaccine would have achieved the same feat.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+}, 62000);
+}
+
+
+
+
+
+
+
+
+If government officials want to take credit only when things go well, they should convert their offices into praise-and-worship cubicles so that Kenyans can seek help from witchdoctors whenever we are in trouble.
+Doctors took an oath to save lives, not to die from government negligence. Otherwise they would have told the BBI task force as much, but all they said was that they wanted was a Health Service Commission.
+We know government policymakers have had problems with hearing the plight of Kenyans, but it can’t be so bad as to confuse a Health Service Commission with a Health Slavery Commission.
+Mr Oguda comments on topical issues; gabriel.oguda@gmail.com He served in former president Daniel Moi's cabinet. BBI secretariat cleaned up the 5.2 million signatures that endorsed the Bill, and weeded out 800,000 that had entry irregularities. This comes days after he collapsed at a hotel in Nairobi and was placed under intensive care at Nairobi Hospital.
