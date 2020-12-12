@@ -21,6 +21,17 @@ Paradoxically, we live at a time of tremendous burgeoning of ministerial clout. 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 The President has formally delegated important functions to Cabinet secretaries, to be performed individually through line mandates, or through thematic Cabinet sub-committees and multiagency focal points.
@@ -67,6 +78,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 It seems that many functionaries misconstrued the delegation of functions and forgot their place. Instead, they imagine themselves as being in a political settlement with the Chief, like the barons-warlords of the Magna Carta. As a result, the relationship between principal and agent implicit in such situations has all but collapsed, or been reversed!
@@ -90,17 +112,6 @@ In any event, they speak a language that is patronising to the point of infantil
 Kemsa paid a “passer-by”Sh180 million, but there was no money to keep Dr Stephen Mogusu safe from infection, treat him or pay his salary. It is said by public policy theorists that government failure is just a series of principal-agent problems. This is where we find ourselves.
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
 
 
 
