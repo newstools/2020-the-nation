@@ -21,6 +21,17 @@ It is understandable he is no longer on social media, and we would’ve excused 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 That’s not someone who is behind news. The message from State House is clear; that the President has exercised his constitutional freedom to choose his friends, and doctors aren’t among them.
