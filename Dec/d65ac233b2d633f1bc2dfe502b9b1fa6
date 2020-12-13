@@ -21,17 +21,6 @@ He also answered critics of the proposed changes, noting that “the making of a
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Deputy President William Ruto has been pushing for amendments where the role of women leaders would be reverted to the National Assembly and that there be multiple questions at the referendum.
@@ -103,17 +92,4 @@ googletag.display("mobile-article-ad-4");
 The March 9, 2018 handshake between him and ODM leader Raila Odinga, the President said, was “a temporary solution to a long-term search.”
 The deputy president, in his short speech, addressed the Covid-19 pandemic that has ravaged the country for the better part of the year, calling for it to be prioritised. He used the opportunity to advance his previously stated position for a non-contested referendum.
 ODM leader Raila Odinga , ANC’s Musalia Mudavadi and Ford Kenya leader Moses Wetang’ula attended the function but did not make speeches.
-wgithae@ke.nationmedia.com; jwanga@ke.nationmedia.com
-
-
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-} Secretariat co-chairmen say they will start holding town hall meetings from January 4 across the country. The President is said to be planning a whirlwind tour of the country as soon as the Covid-19 restrictions end in January. Health ministry announces 366 new infections after testing 4,205 samples, raising Kenya's number of declared infections to 91,892. Somaliland has run its affairs independent of Somalia since 1991. The setting up of phantom jackpots and how a well-oiled gambling mafia almost took over the country.
+wgithae@ke.nationmedia.com; jwanga@ke.nationmedia.com Secretariat co-chairmen say they will start holding town hall meetings from January 4 across the country. The President is said to be planning a whirlwind tour of the country as soon as the Covid-19 restrictions end in January. Health ministry announces 366 new infections after testing 4,205 samples, raising Kenya's number of declared infections to 91,892. Somaliland has run its affairs independent of Somalia since 1991. The setting up of phantom jackpots and how a well-oiled gambling mafia almost took over the country.
