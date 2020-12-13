@@ -1,0 +1,58 @@
+According to the Ministry of Health, the latest cases are from 6,953 tested samples.Four patients have succumbed to the virus in the last 24 hours. Confirmed cases of Covid-19 in Kenya have risen to 91,526 after 548 patients tested positive in the last 24 hours, the Ministry of Health has announced.
+According to the Ministry, the latest cases are from 6,953 tested samples.
+The new case comprise 520 Kenyans and 28 foreigners. In terms of gender 354 are male and 194 female. The youngest is a five-year-old child whil the oldest is 96.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+The Ministry has also announced that 1,017 patients have recovered from the virus in the last 24 hours.
+From this number, 980 patients were from home-based care programme while 37 have been discharged from various hospitals in the country.
+The total number recoveries in the country now stands at 72,596.
+Meanwhile, four patients have succumbed to the virus in the last 24 hours, rising the national death toll to 1,586.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Admitted in health facilities
+According to the Ministry, 982 patients are currently admitted in various health facilities countrywide while 6,782 are on home-based isolation and care.
+Forty four patients are in Intensive Care Unit (ICU), 27 of whom are on ventilatory support, while 15 are on supplemental oxygen. 
+Distribution of cases by counties is as follows; Nairobi 158, Kilifi 145, Nakuru 37, Busia 27, Mombasa 27, Turkana 20, Kajiado 18, Kiambu 17, Uasin Gishu 15, Kakamega 13 and Bungoma 10.
+Other new cases were reported in Kisii 7, Nyamira 7, Kericho 5, Kisumu 4, Machakos 4, Tana River 4, Nandi 4, Marsabit 3, Nyeri 3, Murang'a 3, Siaya 3, Vihiga 3 and West Pokot 2.
+Tharaka Nithi, Makueni, Kitui, Isiolo, Taita Taveta, Kwale, Laikipia, Meru and Garissa counties all reported a single new case each.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+} Confirmed cases of Covid-19 in the country increase to 90,978 after 673 people test positive. Ministry of Health also reports the recovery of 1,060 Covid-19 patients in the country. Trump repeatedly attacked mail-in voting, which was used more extensively by Democrats. They say withdrawing the students will undo strides made in higher education.
