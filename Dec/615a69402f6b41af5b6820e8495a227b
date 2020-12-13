@@ -85,17 +85,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -129,6 +118,17 @@ After weeks of talks, the Colonial Secretary agreed to fix a date for independen
 He also accused the Governor and the Kanu government of sitting on powers, which under the constitution belonged to the regional governments. Responding to Ngala, Mboya said the opposition that was deliberately reluctant to accept its duties and responsibilities within a democratic set-up. “Is this not in fact the very attitude needed to support the case for a one party system?” he posed. 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
 
 
 
