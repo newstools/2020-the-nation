@@ -98,6 +98,17 @@ In Nyanza and western 62 were closed, North Rift and South Rift Regions 19, Cent
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
+
 
 
 The Board in its recommendation to Kemsa warehouses, states that the depots should employ qualified pharmacists and pharmaceutical technologists to oversee the handling of products, especially the controlled drugs.
