@@ -22,17 +22,6 @@ Already, 10 candidates have declared interest in contesting for the seat from 
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Kakamega Senator Cleophas Malala spent the weekend with ANC strategists from the Western region seeking to identify a candidate for their party.
@@ -66,6 +55,17 @@ He said he cannot compete against ANC party leader Musalia Mudavadi for the sake
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 “We want unity of the Mulembe nation and we cannot achieve this when we continue to compete against each other. Ford Kenya will back ANC in Matungu and ANC will, in turn, support us in Kabuchai,” said Mr Wetang’ula.
@@ -92,4 +92,4 @@ Mr Odinga maintained that his party will field a candidate in Matungu just like 
 The DP, who was a close friend to Mr Murunga, is expected to play a critical role in the by-election if he throws his weight behind one of the candidates.
 Already, a number of candidates are reaching out him to seek political and financial support.
 Mr Mohammed Seif Omoro and Mr Mohammed Ibada, who have declared their interest and are positioning themselves to get the support of the DP.
-smakokha@ke.nationmedia.com The debate was ignited by Mr Mudavadi and Senator Malala's calls for DP Ruto to stop derailing the process. Speaker gives IEBC leeway to prepare for and conduct a by-election following the death of MP Justus Murunga. Somaliland has run its affairs independent of Somalia since 1991. The setting up of phantom jackpots and how a well-oiled gambling mafia almost took over the country.
+smakokha@ke.nationmedia.com The debate was ignited by Mr Mudavadi and Senator Malala's calls for DP Ruto to stop derailing the process. Speaker gives IEBC leeway to prepare for and conduct a by-election following the death of MP Justus Murunga. Man wanted his mother to sell family land and give him the money. Their homes fell prey to Al-Shabaab gunmen swearing allegiance to the Islamic State group.
