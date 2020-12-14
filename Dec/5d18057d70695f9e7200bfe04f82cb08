@@ -22,17 +22,6 @@ The Defence ministry said Zimbabwe will contribute troops and equipment to a Sad
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 "Intervention in that conflict will be done within the framework of the Sadc brigade," the Ministry said in response to reports claiming that plans by Zimbabwe's military to deploy troops in Mozambique were at an advanced stage.
