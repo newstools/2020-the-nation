@@ -1,0 +1,38 @@
+President Uhuru Kenyatta has sent a message of condolence to King Mswati III and the people of Eswatini following the death of Prime Minister Ambrose Mandvulo Dlamini.
+The 52-year-old PM died while being treated for Covid-19 at a hospital in South Africa.
+In a message of encouragement and comfort to King Mswati, President Kenyatta said Kenya stands with the people of Eswatini as they mourn their departed leader.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+“Prime Minister Dlamini was an industrious and devoted leader who was committed to improving the wellbeing of his fellow countrymen. It is unfortunate that we have lost such a great leader at a time like this,” he said on Monday.
+“We will forever cherish his contribution to human development, especially in the banking and telecommunication sectors, where he served successfully for many years before becoming Prime Minister.”
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+He assured the king and the people of Eswatini of Kenya’s support. Country has reported over 6,700 Covid-19 cases and 127 deaths among its population of 1.2 million. Ms Dora Siliya has since gone into self-isolation. Mr Noordin Haji terms last week’s decision unfair and without any factual or legal bases. Ms Agnes Wangui said in court papers that the Matungu MP sired two children with her. The televangelist was charged with killing the woman by dangerous driving.
