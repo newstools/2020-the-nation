@@ -1,0 +1,29 @@
+A massive outage knocked Google services including Gmail and video sharing platform YouTube offline across much of the globe Monday.
+WIthin minutes, social media sites were awash with hashtags including #googledown and YouTubeDOWN as hundreds of millions of internet users tried vainly to connect to the US search engine.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Users around the world also reported problems with Google Drive, the Android Play Store, Maps, and Docs.
+The tech ggiant's search engine, however, remained unaffected.
+Google indicated the outage had affected all of its services for the "majority" of users.
+“We’re aware of a problem with Gmail affecting a majority of users,” a status update on a Google dashboard said, followed by another message that said service has been restored for some users.
+“We expect a resolution for all users in the near future.”
+
+
+
+
+
+There were similar updates for Google's other services. Charles Murito is also involved in the startup ecosystem and is a lover of art. Miguna Miguna, Babu Owino and Mutahi Kagwe were among the top most searched Kenyans. Mr Noordin Haji terms last week’s decision unfair and without any factual or legal bases. Ms Agnes Wangui said in court papers that the Matungu MP sired two children with her. The televangelist was charged with killing the woman by dangerous driving.
