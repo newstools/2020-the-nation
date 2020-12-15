@@ -52,17 +52,6 @@ It is estimated that it costs about Sh52 million to support a single Member of P
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 The 70 new MP slots alone would cost enough money to recruit 56,700 teachers, nurses, doctors, and other public sector employees. In total, additional zero-sum Executive and Parliamentary baggage, including hundreds of nominated MPs could easily generated 100,000 new public sector vacancies
