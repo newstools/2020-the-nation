@@ -22,17 +22,6 @@ Malindi in Kilifi County which is regarded as Kenya’s ‘little Italy’, due 
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Malindi depends on international tourism market, and the hotels closed down in March  when Covid-19 pandemic outbreak pulled the plug on international travel.
@@ -82,6 +71,17 @@ Currently, most beach hotels at the Coast are operating between 40 to 55 percent
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 Compared to last year the hotels operated above 80 percent local tourism and 25 percent international circuit with industry players terming it the worst Christmas and New Year.
@@ -104,4 +104,4 @@ googletag.display("mobile-article-ad-4");
 
 She said most hotels workers have been working on rotation due to lack of business.
 “You work for two weeks, stay at home for another two weeks. Salary is now 50 per cent, things are really bad but we are worried if the governors lock the counties we will incur more losses,” she said.
-Recently, Governor Hassan Joho directed his administration to devise ways and means of reviving the economy of Mombasa. The Uganda Communications Commission says the channels were used to mobilise riots in November that resulted in many deaths. Residents report seeing SNA troops taking strategic positions along the border. Kenyan Uber drivers say their investments have gone down the drain.
+Recently, Governor Hassan Joho directed his administration to devise ways and means of reviving the economy of Mombasa. Kenyan diplomats ordered out of Mogadishu in seven days. Besides premiership, MPs are also eligible for deputy PM and Cabinet posts. At least 333 students are still missing since the attack late Friday on the all-boys school.
