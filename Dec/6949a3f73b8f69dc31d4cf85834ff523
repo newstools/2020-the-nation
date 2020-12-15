@@ -1,0 +1,59 @@
+Clinton Kibisu, a second year IT student, says the security system uses GSM technology, and guards against theft of livestock, farm produce, tools and equipment.The anti-theft system also has an added function - an outer door locking system that uses motors attached to the door, therefore if a thief manages to access a store at the farm, he cannot escape through the door. The system costs between Sh1,800 and Sh25,000.  Security is one of the most important aspects for a home or business owner, whether you are at home or away, there is nothing as reassuring as knowing that your property is intact. 
+With this in mind, students from Sigalagala National Technical Training Institute have invented an automated anti-theft wireless sensor system specifically tailored for farms and ranches.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Clinton Kibisu, a second year IT student, says the security system uses GSM technology, and guards against theft of livestock, farm produce, tools and equipment.
+"The automated anti-theft sensor system notifies the owner when there is an intruder in the farm or store since it is fitted with motion detectors and sensors, a message is then sent to the mobile phone of the owner," Kibisu explains.
+Simple design 
+“This system is programmed using Arduino C++, a little of Java and a database to store the date. Its simple design enables the farmer to use this wireless home security system from wherever he is.”
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+The system is fully controlled by the micro-controller which constantly monitors all the sensors, and if it senses a security threat, the micro-controller sends a message to the user’s mobile through GSM modem.
+The anti-theft system also has an added function - an outer door locking system that uses motors attached to the door, therefore if a thief manages to access a store at the farm, he cannot escape through the door. 
+In this case, a wired switch is provided to enable or disable the motor-driven door lock system, which can be improvised by employing wireless control on the motor-driven door locking system. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+The system costs between Sh1,800 and Sh25,000. 
+smakokha@ke.nationmedia.com The Uganda Communications Commission says the channels were used to mobilise riots in November that resulted in many deaths. Residents report seeing SNA troops taking strategic positions along the border. Kenyan Uber drivers say their investments have gone down the drain.
