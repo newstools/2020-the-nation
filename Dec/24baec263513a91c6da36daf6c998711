@@ -1,0 +1,82 @@
+The Ugandan government, through the Uganda Communications Commission (UCC), has written to US-based Google, that owns YouTube, a global video sharing platform, asking it to close at least 14 channels for allegedly mobilising riots.
+The riots in November resulted in at least 50 deaths and several injuries.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+The channels include TMO Online, Lumbuye Fred, Trending Channel UG, Uganda Yaffe, Uganda News Updates, Ghetto TV, Busesa Media Updates and Uganda Empya.
+Others are Map Mediya TV,  KK TV, Ekyooto TV, Namungo Media, JB Muwonge 2 and Bobi Wine 2021.
+According to the UCC, the channels were used to mobilise riots that resulted in the loss of lives and property in Uganda.
+The riots broke out in Kampala on November 18 and spread to other parts of the country following the arrest of National Unity Platform (NUP) presidential candidate Robert Kyagulanyi alias Bobi Wine.
+
+
+
+
+
+UCC's justifications
+The commission says it wrote to Google after receiving complaints from stakeholders including the Internal Affairs minister, who chairs the National Security Council and the Uganda police Force.
+UCC further says it made the decision after observing that communication platforms and networks including YouTube are being used to publish, disseminate, and/or broadcast content that goes against the Uganda Communications Act of 2013 and Regulation 8 (2) of the Uganda Communications (Content) Regulation 2019.
+According to the government, the channels misrepresent information, views, facts and events in a manner likely to mislead the public.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+“[They contain] extremist or anarchic messages, including messages likely to incite violence against sections of the public on account of their tribes and political opinions ... [and] may compromise national security and cause economic sabotage,” states UCC’s December 9 letter to Google.
+The letter adds: “Wherefore as the regulator of the communications sector in Uganda and in accordance with Section 5 (1) (b), (j), (x), 6 and 45 of the Uganda Communications Act 2013, the commission hereby implores Google to block access to the following YouTube accounts."
+Other actions sought
+In addition, UCC wants Google to “immediately stop aiding and abetting” any further breach of the regulatory and penal laws of Uganda through its communication platforms.
+It asked the company "to review and revise YouTube operations to ensure that it is not used to circumvent the legal and regulatory requirements of the Republic of Uganda".
+UCC also wants Google to ensure all content broadcast to Uganda through YouTube's applications and services strictly complies with Uganda's Minimum Broadcasting Standards as it’s enshrined in the act.
+The letter comes days after the government directed all journalists to register with the Uganda Media Council, a move that media practitioners in the country have protested.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+}, 62000);
+}
+
+
+
+Police said journalists without accreditation from the council will not be allowed to cover political events.
+
+
+
+
+
+“Those with Uganda Media Council accreditation will be treated as well wishers,” police spokesperson Fred Enanga said.
+Journalists praised
+The US mission in Uganda lauded journalists saying they safeguard democracy by investigating, observing, and sharing information, while sometimes overcoming great challenges to do so.
+“The US recognises the work of dedicated journalists in Uganda and elsewhere for their essential role. Knowledge is power,” the mission  said via Twitter.
+However, President Yoweri Museveni’s spokesperson, Mr Don Wanyama, said the State reserves the right to check new media tools being used to “whip up irresponsible” journalism.
+"Media engaging in responsible journalism has no restrictions. But if you think you'll use new media tools to whip up tribal emotions, advocate for violence etc, then the State reserves all rights to check you. Examples abound of untold loss occasioned by an irresponsible press,” he tweeted on Tuesday. The musician-turned-politician was charged on Friday with infringing Covid-19 restrictions on large gatherings. President Museveni is campaigning on a theme of securing Uganda’s future. Residents report seeing SNA troops taking strategic positions along the border. Kenyan Uber drivers say their investments have gone down the drain.
