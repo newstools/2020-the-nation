@@ -24,17 +24,6 @@ The MP also said that as he headed to his vehicle, the Joho team followed him an
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Mr Ali further claimed the youths were armed with knives and batons.
