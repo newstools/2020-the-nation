@@ -22,6 +22,17 @@ The clip states that three of the attackers were Kenyan while two were Somali. 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 The terror group says the Dusit mission leader was a Kenyan of Kikuyu descent. The five attackers were named as Osman Ahmed Hassan, Ali Salim, Abdigani Arap Yusuf, Mohmaed Adam Nur and Mahir Khalid. Somaliland has run its affairs independent of Somalia since 1991. Amid concerns, the Defense Department stressed the United States was "not withdrawing or disengaging from Africa". The Uganda Communications Commission says the channels were used to mobilise riots in November that resulted in many deaths. Residents report seeing SNA troops taking strategic positions along the border. Kenyan Uber drivers say their investments have gone down the drain.
