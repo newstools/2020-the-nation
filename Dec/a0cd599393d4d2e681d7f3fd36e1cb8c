@@ -33,17 +33,6 @@ Mr Bader's team has alleged harassment by police officers while claiming that 
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 More to follow By 6.30am voters had started streaming into polling stations. IEBCs officials check voters' temperatures before they enter polling centres. The Uganda Communications Commission says the channels were used to mobilise riots in November that resulted in many deaths. Residents report seeing SNA troops taking strategic positions along the border. Kenyan Uber drivers say their investments have gone down the drain.
