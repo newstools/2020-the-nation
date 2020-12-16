@@ -1,0 +1,56 @@
+Washington
+The US set a new daily record of Covid-19 cases Tuesday, with more than 248,000 infections registered in the past 24 hours, the Johns Hopkins University virus monitor reported.
+In the same period, 2,706 new deaths were recorded, according to data compiled by AFP based on information released by the university.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Coronavirus infections have increased dramatically over the past month in the United States — new daily cases have been recorded at or above the 200,000 mark in 10 of the past 13 days.
+The number of hospitalised Covid patients — 113,000 — is also at its highest level since the beginning of the pandemic in March, according to data from the US Department of Health and Human Services.
+The situation is starting to improve in the Midwest, where the number of new daily cases and hospitalisations is decreasing.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Picking up steam
+However, the epidemic is picking up steam in the Northeast and the West, according to the Covid Tracking Project, which compiles data from around the country every day.
+California is especially facing a dearth of available intensive care beds. Fewer than 100 were available on Tuesday in the densely populated Los Angeles county, home to 10 million people.
+The large nationwide vaccination campaign launched on Monday will have no effect on the current surge, health officials say, because it will take months before enough people are immunized to make a difference.
+Experts say that face masks and social distancing measures must remain in use, especially during the end-of-year holiday period.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+} More than 299,000 Americans have been killed by the virus. More than 3,000 people were lost to the pandemic in one day.. Bader garners 15,251 votes in a hotly contested by-election. Car has a 150cc motorcycle engine that is meant to reduce the consumption of fuel. Dede, who was running against eight other contestants, has garnered 4566 votes from 30 polling stations.
