@@ -22,17 +22,6 @@ The Sovereign Wealth Fund Act will set up structures meant to administer resourc
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 "We suspect the delay is influenced by miners so as to continue exploiting our resources and exporting them to China without leaving any money to the community. We want the government to speed up the process since we are rich but we live in a poor county," said Ms Clara Mwaningo, a Taita-Taveta County resident.
