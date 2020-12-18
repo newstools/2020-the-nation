@@ -22,6 +22,17 @@ There were times they would travel to Nairobi for the same, but these days, the 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
  A 50-year-old chemistry teacher, who has taught for some 30 years, may be asked to quickly name the Kapenguria Six, the President of Egypt or even how many stores ‘ought’ to be in a school. It is that simple, but the number of those that ‘pass’ the interviews are circumscribed by availability of funds.
@@ -51,17 +62,4 @@ This may seem far-fetched and ghastly, but they happen frequently and the public
 Some resign while those that swear their innocence find themselves thrown as far away as possible. What goes to the bin is forgotten.
 The teachers are like crabs in a bucket; one tries climbing up and reaches the edge just about to jump out, another climbs onto his back and they all fall back into the turmoil below.
 It is in this context that we wish you to view the case of supposed rape in a big school in western Kenya. Find out what really happened after the investigations are completed.
-mojuang@gmail.com 
-
-
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-} His family says he had difficulty breathing after his lungs collapsed. President Kenyatta says the Nyamira governor was development-conscious and a key figure in the growth of Kenya's tea sector. Interior Cabinet Secretary Fred Matiang'i was among leaders who went to Lee Funeral Home to condole with the family.
+mojuang@gmail.com His family says he had difficulty breathing after his lungs collapsed. President Kenyatta says the Nyamira governor was development-conscious and a key figure in the growth of Kenya's tea sector. Interior Cabinet Secretary Fred Matiang'i was among leaders who went to Lee Funeral Home to condole with the family.
