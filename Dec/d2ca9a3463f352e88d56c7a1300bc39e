@@ -20,17 +20,6 @@ But this means nothing to Joseph Epstein, an 83-year-old American writer and col
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Using denigrating language like “kiddo”, Epstein’s discomfort with Dr Biden’s success was clear: “Any chance you might drop the “Dr” before your name? Dr Jill Biden sounds and feels fraudulent, not to say a touch of comic.” He also downplayed her dissertation, Student Retention at the Community College: Meeting Students' Needs, terming it “unpromising”. Mr Epstein, whose singular academic credential is a Bachelor of Arts degree from the University of Chicago — which he received in 1959 in absentia — quoted a saying from a “wise man” that “no one should call himself “Dr” unless he has delivered a child”.
