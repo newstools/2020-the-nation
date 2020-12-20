@@ -62,17 +62,6 @@ That was Mr Marwa warning Mr Joho to contain his political interests to Mombasa.
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 The then Lamu County Commissioner Joseph Kanyiri also had used the same terms that month: “If they want to extend their territory, then Lamu is the wrong place.”
