@@ -1,0 +1,39 @@
+Kabul, car bomb , Afghanistan, terrorists,
+
+Kabul
+A car bomb has killed eight people and wounded more than 15 others in Kabul, officials said, the latest attack to rock the Afghan capital.
+"The terrorists have carried out a terrorist attack in Kabul city," interior ministry spokesman Tariq Arian said Sunday.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+He said casualties included women and children.
+A security source said the car bomb detonated in the west of the capital, and a health ministry official also confirmed the blast.
+"It was a powerful explosion that has caused a lot of damage to houses in the vicinity," the source said.
+Television footage showed at least two cars on fire, with billowing plumes of thick black smoke.
+The Afghan capital has been hit by a wave of deadly violence in recent months despite the Taliban and government engaging in peace talks to end the country's long conflict.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+} Al-Qaeda terror outfit’s second-highest leader killed in Iran three months ago. Taliban suicide bombers targeted guesthouses in the centre of Kabul on Friday, killing 16 people including Westerners in one of the deadliest attacks on the Afghan capital in a year. Regional leaders are expected to hold a meeting in Djibouti Sunday. DP has borrowed Tanzania’s Chama Cha Mapinduzi model, constituting campaign committees in villages. The legislator suggested that she was being targeted because of her political stand.
