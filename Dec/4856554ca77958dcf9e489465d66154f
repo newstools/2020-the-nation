@@ -24,6 +24,17 @@ The firm processed her loan promptly and approved a loan amounting Sh525,000. Th
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -134,6 +145,17 @@ googletag.display("mobile-article-ad-4");
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -180,6 +202,12 @@ googletag.display("mobile-article-ad-6");
 The Nation spoke to at least three more people who are also struggling to offset their loans after applying for quick loans from various digital lenders. Most of them took loans during the Covid-19 pandemic period. 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+}
 
 
 
