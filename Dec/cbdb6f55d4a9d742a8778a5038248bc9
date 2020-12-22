@@ -1,0 +1,26 @@
+Today, we are pleased to announce the launch of Nation Puzzles on Nation.Africa. This new feature will contain daily crosswords, sudoku, word searches and so much more that is designed to give our audiences and registered members a fresh way to challenge themselves and simulate their minds.
+Nation Puzzles gives us a unique opportunity to leverage on a classic product that has featured in our dailies for over 5 decades, to reach and attract new audiences by repurposing it for a digital platform that is easily accessible and interactive on mobile.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+This milestone comes off the back of achieving a subscriber base of 160,000 registered users on Nation.Africa since launch in August this year. We believe that delivering these digital interactive puzzles will propel us to a new frontier of growth while fostering deeper connections with our customers.  
+
+
+
+
+
+We will give them a new way to challenge their minds and sharpen their mental acuity, while also providing an avenue for a well-deserved break from the hustle and bustle of everyday life.
+We invite you to be part of this journey by logging on to nation.africa/puzzles and sharing the fun with your friends, colleagues and loved ones.  Germany was one of the first nations to announce the ban. Mr Hussein Maro surprises well-prepared groom’s party by asking for a modest sum for his daughter He died while undergoing treatment at a Nairobi hospital where he had been hospitalised. Leaders at summit largely disagree with severance of diplomatic ties. According to bilateral deal, the soldiers will “not be constrained” by UN rules of engagement.
