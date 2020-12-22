@@ -21,6 +21,17 @@ In any case, even if the government were to provide resources for tripling infra
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Before delving into the challenges that this decision will lead to in schools, I wish to raise two pertinent issues that are likely to arise from it. First, would the Ministry of Health overlook the requirement of social distancing for the sake of reopening, considering that schools have high population densities per square-kilometre, compared to other spaces in Kenya?
