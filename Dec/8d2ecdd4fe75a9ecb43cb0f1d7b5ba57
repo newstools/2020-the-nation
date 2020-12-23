@@ -20,6 +20,17 @@ After the forfeiture of office by Jeanine Mabunda, leader of the National Assemb
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 At present, no one can predict the outcome of this battle, but Joseph Kabila's camp now appears to be in turmoil. Some members of the Common Front for the Congo (FCC) announced their membership in the Sacred Union of Félix Tshisekedi. At the same time, within the FCC, internal divisions came to light and some young executives disowned certain figures from Kabila’s camp, starting with Néhémie Mwilanya, coordinator of the FCC, who is accused of being at the centre of "successive failures of the party". 
