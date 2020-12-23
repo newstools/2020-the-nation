@@ -1,0 +1,41 @@
+At least five countries have suspended flights from South Africa after a coronavirus variant was recently discovered in the country.
+Germany, Turkey, Israel, Switzerland and Saudi Arabia are among the countries that have announced the banning of such flights to prevent the spread of a variant of the SARS-COV-2 virus currently termed 501.V2 Variant. The ban was coming into effect on Monday in most of these countries. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Germany was one of the first nations to announce the ban. 
+"Because of the reported coronavirus mutation, the federal government intends to restrict travel options between Germany and Great Britain and South Africa," said Government Spokesperson Martina Fietz.  
+Israel also banned the flights on Sunday, saying that its citizens returning from South Africa would be required to undergo a 30-day mandatory quarantine on their return.  
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+The new variant was discovered in the Eastern Cape and also affects Kwazulu-Natal and the Western Cape.
+Health Minister Zweli Mkhize said his department has been observing a huge number of young people with no illness testing positive lately. 
+"The evidence that has been collated, therefore, strongly suggests that the current second wave we are experiencing is being driven by this new variant," he said. 
+A number of countries have also added Britain in their list of banned flights following the discovery of a COVID-19 variant there.  Political parties to submit dates and names of candidates for primaries by December 28. Kalonzo dismisses calls to team up with Ruto in the 2022 presidential election. Telco is betting on volumes to cover for the low charges after waiver cost Sh9bn
