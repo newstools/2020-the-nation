@@ -1,0 +1,60 @@
+An estimated 75 per cent of our population relies on agriculture, yet only 10 per cent is arable land, according to the Food and Agriculture Organisation of the United Nations.Private freehold is held by individuals, groups of individuals, and private corporate persons. Land is an emotive topic in Kenya. It’s the most important factor of production given that agriculture is the engine of economic growth. An estimated 75 per cent of our population relies on agriculture, yet only 10 per cent is arable land, according to the Food and Agriculture Organisation of the United Nations.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+While Kenya’s population has grown steadily over the years, agricultural output has stagnated. The country has three distinct land tenure regimes: government-owned, trust and freehold. Some 10 per cent of the land is owned by government. Trust land accounts for some 70 per cent, while 20 per cent is freehold.
+Private freehold is held by individuals, groups of individuals, and private corporate persons. Collective freehold land includes group ranches established under the Land (Group Representatives) Act of 1968. The government has the authority to extinguish or restrict property rights over land and natural resources, including the power to limit the use of privately held land for national interests.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Twin challenge
+Public and trust lands within the national and county governments’ jurisdiction are quite extensive. The government is the entity with direct control over how land is used in Kenya. In the west, countries have relied on public land to spur economic development.
+The United States is an excellent example of a country that has leveraged public land to create jobs. Locally, we are faced with the twin challenge of a consistently growing population and an economy that is not creating enough jobs to keep up with the thousands of graduates, who flock the job market.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+In Kenya, public land has potential opportunity to lead, shape, or unlock development. The national and county governments should consider how best to use idle public land to generate economic growth and employment.
+Public-private-partnership (PPP) frameworks have demonstrated a win-win approach when it comes to infrastructural development as well as the energy sector. This approach can also be considered when it comes to solving the unemployment challenge.
+An excellent place to start would be the use of lease-hold agreements with the private sector players in need of land if the resultant product of the land-use is economic development.
+This way, the land would still belong to the government at the end of the day and can be allocated to others after the tenure lapses.
+CKihara@kcbgroup.com The former city governor is seeking to stop the IEBC from conducting Nairobi gubernatorial by-election. The affected routes are Ruiru, Embakasi, Kikuyu and Syokimau. Health CS Mutahi Kagwe says that 286 patients have recovered
+from the virus
