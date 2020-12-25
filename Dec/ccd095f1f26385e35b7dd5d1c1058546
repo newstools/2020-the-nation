@@ -67,17 +67,6 @@ It is festive time and some kid may sniff the smell of chapati in a teacher’s 
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 mojuang@gmail.com Two more trains will be added on the route starting Friday, December 25. Court named four of the widows as co-administrators of the Sh600 million estate in 2009. Mwachonda says doctors were assured that all their concerns will be addressed.
