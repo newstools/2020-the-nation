@@ -1,0 +1,51 @@
+Stealing ideas from readers
+I refer to Leslie Kipkemboi’s letter, featured in your article “Will the editor steal my story idea? Contributors speak out their fears” (Daily Nation, December 11, 2020). I’m afraid your response did not assure us that the editors do not lift and divert to feature articles ideas from pieces submitted by readers.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+You point out that one may not be the only person who could have thought of the idea. That was the same response you gave me a year ago when I complained of editors shunning my letters only to run the subject matter later as a feature. Once could be coincidence.
+But five times, as happened to my articles, is not a coincidence. At the fifth time they gave me credit somewhere in the depth of the feature. Lifting readers’ ideas without acknowledging them is demoralising to budding writers. The Nation should discourage the habit.
+
+
+
+
+
+— Sammy Ng’ang’a, Nairobi
+                   ***
+Public editor compromised
+Mr Mwaura, it is evident from your reply, “A tale of Nanyuki railway map and why the ‘Nation’ killed the story” (Daily Nation, December 4, 2020) that you were compromised. You did not exert the authority bestowed upon you as a news ombudsman to bring pressure on the editor to give compelling reasons for the delay in correcting the story.
+—Joseph Rukwaro
+                   ***
+Log-in challenges and errors
+With the recent changes to your online newspaper portal, one is always either dealing with log-in challenges and errors or having to play around with different browsers to look for a solution to the many errors and prompts to log in to the portal to read news. A lot of users’ time is wasted this way. One of the most common errors and messages one has to deal with are “Oops. We’re sorry, we couldn’t load the article. We have been notified. Please reload the page or try again later.”
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+—Danson B. N. Maina
+The Public Editor is an independent news ombudsman who handles readers’ complaints on editorial matters including accuracy and journalistic standards. Email: publiceditor@ke.nationmedia.com. Call or text 0721989264. Two more trains will be added on the route starting Friday, December 25. Court named four of the widows as co-administrators of the Sh600 million estate in 2009. Mwachonda says doctors were assured that all their concerns will be addressed.
