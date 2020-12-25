@@ -1,0 +1,52 @@
+It is the most delightful time of the year. Christmas celebrations this year, however, are unlike anything we knew before the advent of coronavirus. 
+I remember a time like this last year, we woke up early in the morning ready to celebrate the day. Family gatherings and coming together as friends are no longer narratives that excite many people.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+As the first Christmas of this decade, it has been a strange festive season and many are hoping that the next will be different.
+Since coming into close contact with an infected person is the main way Covid-19 spreads, family gatherings and parties have been scrapped.
+In the past, many families would go to hotels and restaurants to grab their delightful meals, but that is not possible today. In this catastrophe that we are living in, individuals are staying at home to curb the spread of the virus.
+
+
+
+
+
+Travelling was also an activity that many Kenyans engaged in as they sought to have a good time with their rural families, but coronavirus slammed breaks on that, too.
+Many people who live and work in towns have chosen to stay in their homes as they seek to protect their elderly relatives, a vulnerable group in this pandemic, in villages.
+Countries all over the world have also imposed travel restrictions to limit the spread of the virus. Currently, travel bans are targeting to stop the importation of a new strain of coronavirus that has been reported in the UK.
+This insinuates that several Kenyans have to reschedule their voyages and stay in their homes.
+Scores of families also valued doing Christmas shopping, but due to the measures put in place to contain the contagion, it is no longer enjoyable to go buying supplies and gifts.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+Many are also afraid of contracting the virus and have chosen to order online, and have their shopping delivered.
+Kenyans also loved having Christmas dinners with associates. But they cannot justify that because of the lockdown directive issued by the government.
+While many of us may not like celebrating Christmas inversely, our lives come first and we must do all we can to protect them.
+We have to give total regard and adhere to Covid-19 protocols as we relish the little joys we can afford.
+Are you aged 10-20 and would like to be Nation’s young reporter? Email your 400-600-word article to diversity@ke.nationmedia.com Covid-19’s effect on travel has been disastrous. The benefits of cycling as one grows older are innumerable, especially for those who suffer from bad knees and weak ankles. The bridge will be officially opened on January 1, 2021. Many did not travel at all for fear of the invisible enemy that has tormented the world for most of this year. The coronavirus pandemic has disrupted the very essence of Christian celebrations this festive season.
