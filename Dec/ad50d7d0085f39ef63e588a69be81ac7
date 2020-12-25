@@ -1,0 +1,29 @@
+Traders in Nairobi’s Industrial Area are counting their losses after an inferno, said to have been started by a street boy, razed down their structures on Thursday morning. 
+The structures were located along Entreprise road and situated behind Industries. Property of unknown value was reduced to shell. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+A trader at the area, Mr Benard Mulonzi, said the fire started in a nearby section which is used for disposal of plastics and tyres, before it spread to their structures. 
+“The fire started from the yard where a street boy was burning tyres. It was fanned by strong wind,’’ Mr Mulonzi remarked. 
+The incident happened when most of the owners had closed shop for the Christmas holiday with many of them having left for their rural homes. 
+Mr Mulonzi added that he was lucky since his salon was not affected by the fire. 
+
+
+
+
+
+The structures affected include a food kiosk, clothes shop and Jua Kali stores, among others. 
+Fire fighters from the Nairobi County government responded in time and helped put out the inferno. Matatu driver was trying to avoid hitting a pedestrian who was crossing the road The boys interviewed said calling off the rite has affected their self-esteem. Two more trains will be added on the route starting Friday, December 25. Court named four of the widows as co-administrators of the Sh600 million estate in 2009. Mwachonda says doctors were assured that all their concerns will be addressed.
