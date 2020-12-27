@@ -1,0 +1,54 @@
+Addis Ababa
+The number of confirmed Covid-19 cases on the African continent reached 2,623,086 Saturday, as the death toll from the pandemic reached 61,954, the Africa Centres for Disease Control and Prevention (Africa CDC) said.
+A total of 2,194,385 people infected with Covid-19 have recovered across the continent as of Saturday afternoon, the continental disease control and prevention agency said.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+The most affected African countries in terms of the number of positive cases include South Africa, Morocco, Egypt, Tunisia and Ethiopia, respectively, figures from the Africa CDC showed.
+Southern Africa is the most affected region both in terms of the number of confirmed positive cases and the number of deaths, Africa CDC noted. Northern Africa is the second most affected region.
+South Africa currently has the most Covid-19 cases, which hit 983,359. The country also has the highest number of Covid-19-related deaths at 26,276.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Meanwhile, the Africa CDC has urged African countries to reinforce Covid-19 testing, contact tracing and early treatment of cases as the continent seeks to gain more insight about the new variant of SARS-CoV-2.
+"Coincidentally, the news of the variant has come when the continent is also experiencing a second wave of the Covid-19 pandemic. Therefore, Africa CDC advises that member states reinforce their efforts to increase testing, contact tracing and early treatment of cases," the Africa CDC said in a situation report issued earlier this week.
+The Africa CDC, however, stressed that "there is no immediate need to restrict trade and travel across the continent because travellers now require a negative virologic test (PCR or Antigen test) before they can travel."
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+} Many countries on the continent lack finances to manage the crisis Most affected countries include South Africa, Morocco, Egypt and Ethiopia. Court says NCBA bank is entitled to exercise its power of sale to recover the money. Cars registered in 2013 arriving after December 31 will not be rejected at importer’s cost. Our source says security officials had been briefed the DP was coming.
