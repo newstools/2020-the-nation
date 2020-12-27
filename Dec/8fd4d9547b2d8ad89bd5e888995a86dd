@@ -1,0 +1,78 @@
+To say that 2020 has been a testing year is an understatement. The coronavirus pandemic has wreaked havoc all over the place. As of the time of writing, the virus had infected about 80 million and killed 1.75 million people globally. In Kenya, the official count stood at 95,843 infections and 1,655 deaths.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+The country’s sorry public health system, spared a catastrophic overrun only by the relatively low infection rates in our part of the world, is ending the year even much weaker, with a majority of workers in government hospitals on strike.
+ The Education Cabinet Secretary once declared 2020 a lost year before announcing a phased reopening. For all its uncertainties, the year of the pandemic also confirmed or reinforced some widely held views of the country.
+Kenya is a politicking nation
+Coronavirus? What coronavirus? Large social gatherings have been identified worldwide as potential super-spreader events for the virus. But in Kenya, a ban on political rallies as part of the initial public health guidelines introduced to try to contain the spread of the virus was honoured more in the breach than the observance.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Prominent politicians such as Deputy President William Ruto and ODM party leader Raila Odinga set a bad example continuing their mobilisation around the 2022 presidential succession race and the Building Bridges Initiative (BBI) reforms. Not quite surprisingly, that list of shame included President Uhuru Kenyatta who had himself imposed the restrictions!
+Police brutality won’t go away
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+Spare a thought for the family of Bramwel Chakunza, the 28-year-old man who died after reportedly being assaulted inside the cells at Kisii Central Police Station for violating the Covid-19 curfew.
+As if the rest of year hadn’t been tough enough, they had to mourn at Christmas. Bramwel was only the latest victim of brutality by police officers purportedly enforcing Covid-19 containment rules.
+ Kenya’s early response to the pandemic was actually defined by the more deaths attributed to incidents of police beating people for breaking curfew rules or not wearing masks than the virus itself! In Mombasa, hordes of thuggish men in uniform pounced on their victims with bludgeons. In Nandi, a police officer in June shot a man dead for not wearing a face mask.
+Deep State might be real
+Mike Sonko, the former Nairobi governor, got a rude gift for Christmas after he was booted out of office on December 18. His impeachment capped a rough 12 months during which he was dramatically arrested following a highway chase, charged with corruption, barred from stepping foot in his physical office at City Hall and made to surrender some of his powers to a military man.
+Mr Sonko has consistently blamed his troubles on the ‘Deep State’ – a powerful cartel of unelected officials and businesspeople whose existence has divided opinion. But the methodical manner Mr Sonko’s downfall was orchestrated will reinforce the notion that the ‘Deep State’ is real.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+}, 62000);
+}
+
+
+
+jkotieno@ke.nationmedia.com. @otienootieno Court says NCBA bank is entitled to exercise its power of sale to recover the money. Cars registered in 2013 arriving after December 31 will not be rejected at importer’s cost. Our source says security officials had been briefed the DP was coming.
