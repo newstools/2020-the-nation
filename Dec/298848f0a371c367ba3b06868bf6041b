@@ -23,6 +23,17 @@ A number of senior City Hall officials, including county executives and chief of
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 The night party, which was held at the restaurant of a high-end members’ club in Nairobi, was organised by the pro-impeachment MCAs and kicked off immediately the Senate voted to uphold the ouster of Sonko. 
