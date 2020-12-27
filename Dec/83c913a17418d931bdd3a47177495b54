@@ -118,6 +118,17 @@ Mr Musyoka claimed Mr Muthama was pushing him to have a joint ticket with DP Rut
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
+
 
 
 Mr Mudavadi’s ANC saw the twin exit of secretary-general Barrack Muluka and Kibra parliamentary hopeful Eliud Owalo, who ditched him for Ruto, but the former vice-president has maintained a studious stance, vowing to stay strong in his bid to clinch the presidency in 2022.
