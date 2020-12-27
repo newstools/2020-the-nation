@@ -1,0 +1,23 @@
+The first of two passenger trains from Nanyuki to Nairobi temporarily stalled on Sunday at Ruthagati in Nyeri County with more than 1,500 passengers on board.
+The train, which left Nanyuki town at 10am, developed mechanical problems believed to have been caused by the heavy load and the area’s topography.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+However, the on-board crew resolved the mechanical issue, allowing the journey to continue after half an hour of stalling. 
+Kenya Railways (KR) announced on Sunday that it would double the number of trains from Nanyuki to Nairobi to cater for the high demand for passenger service on the route.
+KR is charging Sh200 per passenger for the journey to Nairobi, which has seen an influx of travellers, with the coaches carrying more than the standard sitting capacity.
+
+nkomu@ke.nationmedia.com Two more trains will be added on the route starting Friday, December 25. The affected routes are Ruiru, Embakasi, Kikuyu and Syokimau. Faiza Wanjiru reveals the tactics used by criminals to target cash-rich revellers. Bishop Kariuki appeals for government assistance to private schools, saying most are currently struggling.
