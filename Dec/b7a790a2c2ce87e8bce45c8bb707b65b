@@ -54,6 +54,17 @@ However, Mr Mudavadi’s spokesman Kibisu Kabatesi yesterday responded swiftly, 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 “Hubris is a disease politicians avoid, but for William Ruto, he covets and is infatuated by hubris. It is hubris that drives him to undermine his own government and oppose his boss, the President,” Mr Kabatesi said in a strongly-worded statement.  “Ruto appeared so cock sure of his support in Western that he chose it as the venue to goad the two leaders into a union with him. The two leaders aren’t ready to offer him a shoulder to cry on.”
