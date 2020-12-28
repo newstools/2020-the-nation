@@ -21,6 +21,17 @@ A day after DP Ruto fired a tirade in Bungoma County, during the burial of the f
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Mr Wetang’ula, who is Bungoma Senator, attended the burial and sat as DP Ruto told them off. He did not respond when the Nation reached him for comment.
