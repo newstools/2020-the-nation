@@ -130,17 +130,6 @@ What we also knew about Nyagarama was the way he loved the Nyamira people and w
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
-
 
 
 Twice he wanted to get into politics but he would strategically drop the idea. Unlike many politicians, he wanted to build a base first by working with the people before venturing into the field.
