@@ -22,6 +22,17 @@ Instead of a thunderous roar of approval, Ngilu was booed and heckled. The Kitui
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
  They demanded that Kuria gets seated among the day’s dignitaries where he truly belonged. This singular act of defiance and civil disobedience would come to define that infamous rally. Madam Ngilu is a brilliant politician, yet BBI seems to have clouded her judgment and she is not alone.
@@ -67,6 +78,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 Despite repeated pleas for audience, Mr Musyoka embarrassingly read hollow platitudes to empty chairs. These events exemplify ways in which Kenyans are expressing disgust to the stream of nonsense, intolerance, and fraud perpetuated through the BBI. It’s instructive that people are finally taking a stand against these chest-thumping fellas with inflated egos. They are making it clear that they would no longer accept to be corralled and steered like passive sheep to the slaughterhouse.
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
 
 
 
