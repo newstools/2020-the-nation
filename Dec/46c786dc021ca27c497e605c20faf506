@@ -34,17 +34,6 @@ The death of Kabuchai MP James Lusweti has set the stage for the Wetang’ula te
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Pundits have observed that the Kabuchai by-election will be interesting to watch as it will show who controls the party.
@@ -88,4 +77,4 @@ Photo credit: Brian Ojamaa | Nation Media Group
 
 Legally, this would be Wetang’ula and David Eseli as party leader and secretary-general, respectively.
 "Considering internal party wrangles between the two camps, it’s unlikely that either party would endorse a candidate they do not prefer. That will likely create issues in both camps," he said.
-This comes even as DP Ruto and elders from Bamutilu clan met on Monday and endorsed Kakai to run as an independent candidate for the Kabuchai seat. Jubilee and OMD have submitted names to the IEBC amid talks of cooperation. Impeached Waititu and exiled Miguna are also in the contest. For Uhuru, Raila, Ruto, Kalonzo, Mudavadi and Wetang’ula, outcome of mini polls a pointer to referendum, 2022 The party has told the DP Ruto-led Tangatanga political wing to brace for a bruising campaign. Team is preparing for upcoming 2021 African Nations Championship (Chan) tournament. Senate approved the Bill without amendments, paving the way for Presidential assent.
+This comes even as DP Ruto and elders from Bamutilu clan met on Monday and endorsed Kakai to run as an independent candidate for the Kabuchai seat. Jubilee and OMD have submitted names to the IEBC amid talks of cooperation. Impeached Waititu and exiled Miguna are also in the contest. For Uhuru, Raila, Ruto, Kalonzo, Mudavadi and Wetang’ula, outcome of mini polls a pointer to referendum, 2022 Tangatanga legislators claim Chief Executive Officers and Managing Directors were among those being targeted. Team is preparing for upcoming 2021 African Nations Championship (Chan) tournament. Senate approved the Bill without amendments, paving the way for Presidential assent.
