@@ -1,0 +1,42 @@
+The number of confirmed Covid-19 cases in Kenya has risen to 96,251 following 112 new positive cases from 3,327 samples, the Ministry of Health has said.
+The new cases comprise 98 Kenyans and 14 foreigners, of whom 69 are male and 43 female.
+The youngest is a three-year-old baby while the oldest is 84.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+At the same time, the death toll in the country from the pandemic now stands at 1,667 after two fatalities were reported in the last 24 hours, Health Cabinet Secretary Mutahi Kagwe said on Wednesday in a statement to media houses.
+National recoveries 
+Mr Kagwe, on the other hand, reported 816 new recoveries, bringing the tally for national recoveries to 78,475.
+From the latest recoveries, 798 are from the home-based care programme while 18 have been discharged from various hospitals across the country.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Currently, there are 667 patients admitted in various health facilities countywide while 3,214 are under home-based care.
+There are 30 patients in the Intensive Care Unit (ICU), 16 of whom are on ventilatory support and 12 on supplemental oxygen. Two patients are under observation.
+Another 23 patients are separately on supplementary oxygen out of whom 21 are in the general wards. Two patients are in the High Dependency Unit (HDU). This shift of focus is so dire that the World Health Organization now warns that by the end of 2020, more people will have died of malaria than Covid-19. "I may not celebrate as much as I usually do because of limited resources to spend," Boaz Mutai. The journalists were covering an earlier incident where Bobi Wine and his bodyguard were arrested by police. Before his disappearance and death, Kipyegon Kenei was to record a statement at the DCI headquarters. Education CS says the government has done everything possible to facilitate the resumption of learning in schools.
