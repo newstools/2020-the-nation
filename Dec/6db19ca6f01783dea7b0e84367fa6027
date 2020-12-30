@@ -1,0 +1,61 @@
+Our leaders have always promised to get us to the Promised Land, but have now left us stranded in the wilderness. All Kenyans are asking for is that, as our leaders write down their new year resolutions. It is that time when many of us are taking stock of the year that has been. It the time to analyse opportunities we may have lost, experiences we may have learned from, mistakes we may have made and, of course, celebrate our achievements. 
+It is also the time when we are jolted back to reality after all the festivities and merry making.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+Propelled by the hope of a new dawn that 2021 promises, many will be quick to jot down new-year resolutions.
+Even as we contemplate and plan, we the people of this country are hoping that our leaders, or rather, those purporting to be leading this country, are doing the same as far as our welfare is concerned.
+Indeed, many will be quick to point an accusing finger at our leaders as the source of most, if not all our problems.
+Our leaders have always promised to get us to the Promised Land, but have now left us stranded in the wilderness. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+All Kenyans are asking for is that, as our leaders write down their new year resolutions, that they remember to at least include our welfare therein. 
+The people of this country need proper healthcare to be prioritised. The world is still smack in the middle of a pandemic and healthcare services in public hospitals across this country are barely accessible as health workers have downed their tools in protest against poor remuneration and inadequate Personal Protective Equipment (PPE’s), among other grievances.
+The return of learners to school on January 4 after a nine-month hiatus is imminent.
+However, the learners, as well as their parents and guardians, are anxious as to whether the covid-19 preventive measures their respective institutions have put in place will suffice. They need assurance that the learners are not being led to a death trap.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+In one of spoken word poet Mufasapoet’s pieces, he says: “… ‘Youth’ is a term our leaders use when they are about to pretend like they care…” Our leaders have a chance to change this narrative if they put the plight of the youth top most among their new year resolutions. 
+Lewis-Miller Kaphira, 19, is a second year student of Economics and Statistics at Kenyatta University. 
+Are you aged 10-20 and would like to be Nation’s young reporter? Email your 400-600-word article to diversity@ke.nationmedia.com Though people lost jobs, they were able to grow their talents and became more creative. Kenyans have showed their stoicism and resilience to bounce back even stronger from the toughest of situations. The DP's ambition to take over from his boss after the 2022 elections is a road with two paths. The decision is a blow to two aspirants who had applied to the party for sponsorship to contest the seat. This shift of focus is so dire that the World Health Organization now warns that by the end of 2020, more people will have died of malaria than Covid-19.
