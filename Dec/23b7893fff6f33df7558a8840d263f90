@@ -24,17 +24,6 @@ Even though President Uhuru Kenyatta and his deputy have not engaged in direct p
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -148,17 +137,6 @@ Through a Kenya Gazette notice, the Party for Development and Reforms
 The wheelbarrow has become a symbol for the DP’s empowerment campaign, though critics say the youth need digital skills, not “outdated” tools. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
 
 
 
